@@ -1,0 +1,84 @@
+%---------导言文章格式设置-------
+%-----宏包-----------
+\usepackage{titletoc,titlesec,fancyhdr} %--版式--
+\usepackage[left=1in,right=1in,top=1.25in,bottom=1in,headheight=16pt]{geometry} %-页面设置
+\usepackage[colorlinks,linkcolor=black,anchorcolor=black,citecolor=black]{hyperref}%-超链接
+\usepackage{xeCJK,fontspec} %--字体---
+\usepackage[font=small,labelsep=quad]{caption}
+\usepackage[font=small]{subcaption} %引用
+\usepackage[super,square,numbers,sort&compress]{natbib}%--引用上标设置-
+\usepackage{amsmath,amssymb,amsthm,esint,mathrsfs,amsfonts,cases,bm,array} %--数学环境----
+\usepackage{booktabs,multirow,diagbox} %---三线表格--
+\usepackage{graphicx,float,enumerate,multicol,color}%--图片等--
+\usepackage{indentfirst,xpatch,setspace}%--行距缩进等
+%-----------------------------------------------------
+%-----------中英文字体设置----------------
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Courier New}
+\setCJKmainfont[BoldFont=方正小标宋_GBK,ItalicFont=方正楷体_GBK]{方正书宋_GBK}
+\setCJKsansfont[BoldFont=方正大黑_GBK]{方正黑体_GBK}
+\setCJKmonofont{方正仿宋_GBK}
+\newCJKfontfamily\cukai{华文楷体}
+\newCJKfontfamily \beiweikai{方正北魏楷书简体}
+%\setCJKmainfont[ItalicFont={KaiTi}, BoldFont={SimHei}]{SimSun}
+%\setCJKsansfont{KaiTi}
+%\setCJKmonofont{FangSong}
+%\setCJKmainfont[BoldFont={Adobe Heiti Std},
+%    ItalicFont={Adobe Kaiti Std}]{Adobe Song Std}%
+%\setCJKsansfont{Adobe Heiti Std}
+%\setCJKmonofont{Adobe Fangsong Std}
+%---------中英文设置结束-----------------
+%----------------------格式定制-----------
+%----------目录章节大标题拉近距离产生引导线--------------
+\titlecontents{chapter}[1em]{\bfseries}{\contentslabel{1.5em}}
+{\hspace*{-1.5em}}{\hspace{0.5em}\titlerule*[10pt]{.}\contentspage}
+%--------正文之外的标题居中------
+\titleformat{\chapter}{\centering\LARGE\bfseries}{\arabic{chapter}}{1em}{}
+%---------修改章节定义，使章节页页眉格式改为fancy-----------
+\xpatchcmd{\chapter}{\thispagestyle{plain}}{\thispagestyle{fancy}}{}{}
+%-------章节标记定制为数字+名称---设置页眉页脚---------------
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\arabic{chapter}\quad #1}{}}
+\fancyhf{}
+\fancyhead[LO,RE]{\small~硕士学位论文~}
+\fancyhead[RO]{\small~高速飞行器头罩湍流流场的气动光学效应分析~}
+\fancyhead[LE]{\small~\leftmark~} %leftmark为一级标记，rightmark为二级标记
+\fancyfoot[LE,RO]{\small~\thepage~}
+%--------格式定制结束--------------
+%----------------------间距设置------------
+%-------章节标题与上下文距离、行间距-----------------
+\titlespacing*{\chapter}{0.5em}{0pt}{15pt}
+\titlespacing*{\section}{0.5em}{10pt}{10pt}
+\titlespacing*{\subsection}{0.5em}{6pt}{6pt}
+%\onehalfspacing%---1.5倍行间距---
+\setlength{\parindent}{2em}%----首行缩进距离---
+
+%---------间距设置结束-------------
+%------------------其他设置------
+\bibliographystyle{unsrtnat}%--参考文献格式，按引用顺序排序---
+%-----------页脚----------
+\usepackage[norule]{footmisc}
+\usepackage{scrextend}
+\deffootnote{1.5em}{1em}{\makebox[1.8em][l]{注\hspace{-0.3pt}\thefootnotemark:~~}}
+\deffootnotemark{\textsuperscript{注\hspace{-0.1pt}\thefootnotemark}}
+%\renewcommand{\thefootnote}{注\hspace{-0.2pt}\arabic{footnote}}%-脚注----
+\graphicspath{{figure/}} %--设置图片路径---
+%-------------目录等名称改为中文--------------------------
+\renewcommand{\contentsname}{目~~录}
+\renewcommand{\bibname}{参考文献}
+\renewcommand{\indexname}{索引}
+\renewcommand{\figurename}{图}
+\renewcommand{\tablename}{表}
+\renewcommand{\appendixname}{附录}
+\renewcommand{\proofname}{证明}
+\renewcommand{\listfigurename}{图~目~录}
+\renewcommand{\listtablename}{表~目~录}
+%-------去除citenum在方括号中间的空白-----------
+\makeatletter
+\DeclareRobustCommand\citenum
+   {\begingroup
+     \NAT@swatrue\let\NAT@ctype\z@\NAT@parfalse\let\textsuperscript\relax
+     \NAT@citexnum[][]}
+\makeatother 
+%--------------格式设置完毕--------------------

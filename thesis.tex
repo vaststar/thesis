@@ -1,0 +1,40 @@
+%------book书籍类，openany选项表示可从任何页开始新章节------
+\documentclass[a4paper,12pt,twoside,openany]{book}
+\input{preference/preference}%--加载设置文档格式----
+%\includeonly{} %--某些章节单独编译-----
+%-----------------开始整篇文档---------------------    
+\begin{document}
+\setlength{\baselineskip}{20pt} %---1.5倍行间距---
+%-------------封面、摘要、目录-----开始------
+\include{body/titlepage/titlepage}%-封面---------
+\pagenumbering{Roman}%--摘要目录页码为罗马数字----
+\include{preference/addtocset/chabset}%--中文摘要加入目录--
+\include{body/abstract/chabstract}%--中文摘要---
+\include{preference/addtocset/engabset}%--英文摘要加入目录-
+\include{body/abstract/engabstract}%--英文摘要---
+\include{preference/addtocset/tocset} %--目录加入目录--
+\include{body/contents/contents}%--生成目录----
+\pagenumbering{arabic}%--正文页码变回阿拉伯数字---
+%-------------封面、摘要、目录-----结束------
+%----------正文开始------------
+{%----正文章节改为居左且开头为1,2..设置.------
+\include{preference/addtocset/lefttitleset}
+%---------------文章主体章节-----------------
+\include{body/chapter/chapter1}%--第一章--
+\include{body/chapter/chapter2}%--第二章--
+\include{body/chapter/chapter3}%--第三章--
+\include{body/chapter/chapter4}%--第四章--
+\include{body/chapter/chapter5}%--第四章--
+\include{body/chapter/chapter6}%--第四章--
+}
+%------正文结束------------
+%-----致谢、参考文献、附录---开始-----
+\include{preference/addtocset/thankset}%--致谢加入目录---
+\include{body/thanks/thanks}%--致谢-------	
+\include{preference/addtocset/refset}%--参考文献加入目录--
+\include{body/reference/ref}%--参考文献---
+\include{preference/addtocset/appset}%--附录加入目录---
+\include{body/appendix/appendix}%--附录----
+%------致谢、参考文献、附录---结束------
+%-----------------文章完毕--------------
+\end{document}

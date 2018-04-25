@@ -1,0 +1,412 @@
+\begin{thebibliography}{70}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Huang Jianming, Shen Maozuo}()]{huang2008}
+{Huang Jianming, Shen Maozuo}.
+\newblock {Multiframe blind deconvolution restoration of atmospheric
+  turbulence-degraded images based on noise characteristic[J]}.
+\newblock \emph{Acta Optica Sinica}, 2008,28\penalty0 (9):\penalty0 1686--1690.
+
+\bibitem[{Eric Tromeur, Eric Garnier, et al}()]{eric2006}
+{Eric Tromeur, Eric Garnier, et al}.
+\newblock {Large-eddy Simulation of Aero-Optical Effects in Spatially
+  Developing Turbulent Boundary Layer[J]}.
+\newblock \emph{Journal of Turbulence}, 2006,7(1):\penalty0 11--12.
+
+\bibitem[{Shi Yipeng, Wang Jianchun, et al}()]{shiyipeng2015}
+{Shi Yipeng, Wang Jianchun, et al}.
+\newblock {Progress in the research on compressible turbulence[J]}.
+\newblock \emph{HIGH POWER LASER AND PARTICLE BEAMS}, 2015,27\penalty0
+  (03):\penalty0 032002--1--032002--7.
+
+\bibitem[{Busse F H}()]{busse2004}
+{Busse F H}.
+\newblock {Visualizing the dynamics of the onset of turbulence [J]}.
+\newblock \emph{Science}, 2004,305:\penalty0 1574--1575.
+
+\bibitem[{E.J. Jumper, E.J. Fitzgerald}()]{ejjumper2001}
+{E.J. Jumper, E.J. Fitzgerald}.
+\newblock {Recent advances in aero-optics[J]}.
+\newblock \emph{Prog. Aerospace Sci}, 2001,37:\penalty0 299--339.
+
+\bibitem[{Renolds O}()]{renolds1894}
+{Renolds O}.
+\newblock {On the dynamical theory of turbulent incompressible viscous fluids
+  and the determination of the criterion[J]}.
+\newblock \emph{Phil Trans R Soc}, 1894,186:\penalty0 123--161.
+
+\bibitem[{H. W. Liepmann}(1952)]{liepman1952}
+{H. W. Liepmann}.
+\newblock {Deflection and Diffusion of a Light Ray Passing through a Boundary
+  Layer[R]}.
+\newblock \emph{Douglas Aircraft Company}, Santa Monica,CA, 1952.
+
+\bibitem[{Baskins L. L., Hamilton, L. E}(1952)]{baskins1952}
+{Baskins L. L., Hamilton, L. E}.
+\newblock {Preliminary Wind Tunnel Investigation on the Optical Transmission
+  Characteristics of a Supersonic Turbulent Boundary Layer [R]}.
+\newblock \emph{Northrop Aircraft Company}, 1952.
+
+\bibitem[{Stine Howard A., Winovich Warren}(1956)]{stine1956}
+{Stine Howard A., Winovich Warren}.
+\newblock {Light Diffusion through High Speed Turbulent Boundary Layers [R]}.
+\newblock \emph{Research Memorandum}, NACA, Washington, 1956.
+
+\bibitem[{Tatarski V. I., Silverman R. A., et al}()]{tatarski1961}
+{Tatarski V. I., Silverman R. A., et al}.
+\newblock {Wave Propagation in Turbulent Medium [J]}.
+\newblock \emph{Physics Today}, 1961,14\penalty0 (12):\penalty0 46.
+
+\bibitem[{Villars F., Weisskopf V}()]{villars1954}
+{Villars F., Weisskopf V}.
+\newblock {The Scattering of Electromagnetic Waves By Turbulent Atmospheric
+  Fluctuations [J]}.
+\newblock \emph{Physical Review}, 1954,94\penalty0 (2):\penalty0 232--240.
+
+\bibitem[{Booker H. G., Gordon W. E}()]{booker1950}
+{Booker H. G., Gordon W. E}.
+\newblock {A Theory of Radio Scattering in The Troposphere [J]}.
+\newblock \emph{Proceedings of the I.R.E.}, 1950,38:\penalty0 401--412.
+
+\bibitem[{Sutton G. W}({\natexlab{a}})]{sutton1969}
+{Sutton G. W}.
+\newblock {Effect of Turbulent Fluctuations in an Optically Active Fluid Medium
+  [J]}.
+\newblock \emph{AIAA Journal}, 1969,7:\penalty0 1737--1743, {\natexlab{a}}.
+
+\bibitem[{Sutton G. W}({\natexlab{b}})]{sutton1985}
+{Sutton G. W}.
+\newblock {Aero-Optical Foundations and Applications [J]}.
+\newblock \emph{AIAA Journal}, 1985,23\penalty0 (10):\penalty0 1525--1537,
+  {\natexlab{b}}.
+
+\bibitem[{K. Gilbert, L. Otten}(1982)]{gilbert1982}
+{K. Gilbert, L. Otten}.
+\newblock {Progress in Astronautics and Aeronautics Series[R]}.
+\newblock \emph{New York}, 1982.
+
+\bibitem[{Trollinger J. D}(1982)]{trollinger1982}
+{Trollinger J. D}.
+\newblock {Aero-Optical Characterization of Aircraft Optical Turrets by
+  Holography, Interferometry and Shadowgraph[A].K. Gilbert, L. Otten, Progress
+  in Astronautics and Aeronautics Series[C]}.
+\newblock \emph{New York}, 1982.
+
+\bibitem[{Y. P. Tsai, W. H. Christiansent}()]{tsai1990}
+{Y. P. Tsai, W. H. Christiansent}.
+\newblock {Two-Dimensional Numerical Simulation of Shear-Layer Optics [J]}.
+\newblock \emph{AIAA Journal}, 1990,28\penalty0 (12):\penalty0 2092--2097.
+
+\bibitem[{Larry Chew, Walter Christiansent}()]{larry1990}
+{Larry Chew, Walter Christiansent}.
+\newblock {Coherent Structure Effects on the Optical Performance of Plane Shear
+  Layers [J]}.
+\newblock \emph{AIAA Journal}, 1990,29\penalty0 (1):\penalty0 76--80.
+
+\bibitem[{Jumper Eric J}()]{jumper1995}
+{Jumper Eric J}.
+\newblock {Quantification of Aero-Optical Phase Distortion Using the
+  Small-Aperture Beam Technique [J]}.
+\newblock \emph{AIAA Journal}, 1995,33\penalty0 (11):\penalty0 2151--2157.
+
+\bibitem[{Hugo Ronald J}()]{hugo1996}
+{Hugo Ronald J}.
+\newblock {Experimental Measurement of a Time-Varying Optical Path Difference
+  by the Small-Aperture Beam Technique [J]}.
+\newblock \emph{Applied Optics}, 1996,35\penalty0 (22):\penalty0 4436.
+
+\bibitem[{Hugo R. J., Jumper E. J}()]{hugo2000}
+{Hugo R. J., Jumper E. J}.
+\newblock {Applicability of The Aero-Optic Linking Equation to a Highly
+  Coherent Transitional Shear Layer [J]}.
+\newblock \emph{Applied Optics}, 2000,39\penalty0 (24):\penalty0 4392--4401.
+
+\bibitem[{Jumper E., Edward J.Fitzgeraldb}()]{jumper2001}
+{Jumper E., Edward J.Fitzgeraldb}.
+\newblock {Recent Advances in Aero-Optics [J]}.
+\newblock \emph{Progress in Aerospace Sciences}, 2001,37\penalty0 (3):\penalty0
+  299--339.
+
+\bibitem[{Michael D. White}()]{michael2010}
+{Michael D. White}.
+\newblock {High-order Parabolic Beam Approximation for Aero-optics[J]}.
+\newblock \emph{Journal of Computational Physics}, 2010,229:\penalty0
+  5466--5486.
+
+\bibitem[{Meng Wang, Ali Mani, Stanislav Gordeyev}()]{meng2012}
+{Meng Wang, Ali Mani, Stanislav Gordeyev}.
+\newblock {Physics and Computation of Aero-Optics[J]}.
+\newblock \emph{Annual Review of Fluid Mechanics}, 2012,44:\penalty0 299--321.
+
+\bibitem[{Havener George, Stepanek,et al}(1992)]{havener1992}
+{Havener George, Stepanek,et al}.
+\newblock {Aero-Optics Testing Capabilities at AEDC [R]}.
+\newblock \emph{30th Aerospace Sciences Meeting and Exhibit, Reno, NV}, 1992.
+
+\bibitem[{Calspan-UB Research Center}(1990)]{claspan1990}
+{Calspan-UB Research Center}.
+\newblock {Large Energy National Shock Tunnel (LENS) [R]}.
+\newblock \emph{{New York: Calspan-UB Research Center}}, 1990.
+
+\bibitem[{Stanislav Gordeyev, Eric J. Jumper}(2003)]{stanislav2003}
+{Stanislav Gordeyev, Eric J. Jumper}.
+\newblock {Aero-Optical Characteristics of Compressible, Subsonic Turbulent
+  Boundary Layers [R]}.
+\newblock \emph{34th Plasmadynamics and Lasers Conference, Orlando, Florida},
+  2003.
+
+\bibitem[{Aguirre Roberto}()]{aguirre2004}
+{Aguirre Roberto}.
+\newblock {Aero-Optical Wavefronts and Scale-Local Characterization in
+  Large-Reynolds-Number Compressible Turbulence [J]}.
+\newblock \emph{AIAA Journal}, 2004,42\penalty0 (10):\penalty0 1982--1990.
+
+\bibitem[{Mani M. Wang, P. Moin }(2005)]{mani2005}
+{Mani M. Wang, P. Moin }.
+\newblock {Computational study of aero-optical distortion by turbulent
+  wake[R]}.
+\newblock \emph{Proceedings of the American Institute of Aeronautics and
+  Astronautics Conference}, 2005.
+
+\bibitem[{John E. Pond, Sutton G. W}()]{john2006}
+{John E. Pond, Sutton G. W}.
+\newblock {Aero-Optic Performance of an Aircraft Forward-Facing Optical
+  Turret[J]}.
+\newblock \emph{Journal of Aircraft}, 2006,43\penalty0 (3):\penalty0 600--607.
+
+\bibitem[{Tromeur Eric}()]{tromeur2006}
+{Tromeur Eric}.
+\newblock {Analysis of the Sutton Model for Aero-Optical Properties of
+  Compressible Boundary Layers[J]}.
+\newblock \emph{Journal of Fluids Engineering}, 2006,128\penalty0 (2):\penalty0
+  239--247.
+
+\bibitem[{Freeman, Aaron P}()]{freeman2008}
+{Freeman, Aaron P}.
+\newblock {Catrakis Haris, Direct Reduction of Aero-Optical Aberrations by
+  Large Structure Suppression Control in Turbulence [J]}.
+\newblock \emph{AIAA Journal}, 2008,46\penalty0 (10):\penalty0 2582--2590.
+
+\bibitem[{Wyckham C M, Smits A J}()]{wyckham2006}
+{Wyckham C M, Smits A J}.
+\newblock {Comparison of aero-optic distortion in hypersonic and transonic,
+  turbulent boundary layers with gas injection [J]}.
+\newblock \emph{{AIAA Journal}}, 2009,47\penalty0 (9):\penalty0 2158--2168.
+
+\bibitem[{邓诗涛}(2008)]{deng2008}
+{邓诗涛}.
+\newblock \emph{{变折射率介质中的光传输及像质评价[D]}}.
+\newblock {浙江大学}, 2008.
+
+\bibitem[殷兴良(2003)]{yxl2003qdgxyl}
+殷兴良.
+\newblock \emph{{气动光学原理[M]}}.
+\newblock 北京：中国宇航出版社, 2003.
+
+\bibitem[李桂春(2006)]{liguichun2006}
+李桂春.
+\newblock \emph{{气动光学[M]}}.
+\newblock 北京:国防工业出版社, 2006.
+
+\bibitem[{郭永洪, 沈忙作, 陆祖康}()]{gyh1998}
+{郭永洪, 沈忙作, 陆祖康}.
+\newblock {气动光学效应的数值模拟与预测 [J]}.
+\newblock \emph{光电工程}, 1998,25(增刊):\penalty0 21--24.
+
+\bibitem[{费锦东}()]{fjd1998}
+{费锦东}.
+\newblock
+  {高速导弹红外成像末制导对气动光学效应技术研究的需求[J]}.
+\newblock \emph{红外与激光工程}, 1998,1\penalty0 (1):\penalty0 42--43.
+
+\bibitem[{房建成, 杨照华, 吴琳}()]{fjc2004}
+{房建成, 杨照华, 吴琳}.
+\newblock {基于涡结构的气动光学传输效应研究[J]}.
+\newblock \emph{红外与激光 工程}, 2004,Z1:\penalty0 327--379.
+
+\bibitem[{谢文科}(2007)]{xie2007}
+{谢文科}.
+\newblock \emph{{气动光学畸变波前测量及控制方法[D]}}.
+\newblock {国防科学技术大学}, 2007.
+
+\bibitem[殷兴良()]{yxl2006gsfxq}
+殷兴良.
+\newblock {高速飞行器气动光学传输效应的工程计算方法[J]}.
+\newblock \emph{中国工程科学}, 2006,8\penalty0 (11):\penalty0 76--79.
+
+\bibitem[{赵剡, 王涛, 许东, 杨秋英}()]{zhao2008}
+{赵剡, 王涛, 许东, 杨秋英}.
+\newblock {基于计算流体力学网格的高超声速流场光传输
+  建模研究[J]}.
+\newblock \emph{兵工学报}, 2008,3:\penalty0 282--286.
+
+\bibitem[{赵剡，张溟酥}()]{zhaoz2008}
+{赵剡，张溟酥}.
+\newblock {基于光学传递函数的气动光学效应计算方法[J]}.
+\newblock \emph{红外与激光工程}, 2008,S2.
+
+\bibitem[{史可天，程晓丽，马汉东}()]{skt2010}
+{史可天，程晓丽，马汉东}.
+\newblock {光学头罩绕流流场气动光学效应数值模拟[J]}.
+\newblock \emph{红外与激光工程}, 2010,39\penalty0 (1):\penalty0 6--10.
+
+\bibitem[{李波}(2011)]{libo2011}
+{李波}.
+\newblock {高速飞行器气动光学流场机理研究与
+  光学窗口设计[D]}.
+\newblock \emph{上海交通大学博士学位论文}, 2011.
+
+\bibitem[{冯定华, 李桦, 肖飞 等}()]{fdh2012}
+{冯定华, 李桦, 肖飞 等}.
+\newblock {光学窗口凹腔流场的光学传输效应研究[J]}.
+\newblock \emph{光学学报}, 2012,32\penalty0 (4):\penalty0
+  0401004--1--0401004--8.
+
+\bibitem[{徐博}(2015)]{xubo2015}
+{徐博}.
+\newblock {气动光学效应波前畸变的光电校正方法研究[D] }.
+\newblock \emph{北京理工大学硕士学位论文}, 2015.
+
+\bibitem[{杨欢}(2009)]{yang2009}
+{杨欢}.
+\newblock \emph{{气动光学效应对红外成像影响的仿真分析[D]}}.
+\newblock {上海交通大学}, 2009.
+
+\bibitem[{李清}(2011)]{li2011}
+{李清}.
+\newblock
+  \emph{{水中湍流对光传输影响的光线追迹算法的研究[D]}}.
+\newblock {华中科技大学}, 2011.
+
+\bibitem[{张士杰,李俊山,孙李辉,胡双演}()]{zhang2012}
+{张士杰,李俊山,孙李辉,胡双演}.
+\newblock {小入射角条件下气动光学成像偏移[J]}.
+\newblock \emph{{光学学报}}, 2012,32\penalty0 (10):\penalty0
+  1001002--1--1001002--6.
+
+\bibitem[{Thomas E. Schwartzentruber, Leonardo C. Scalabrin, et
+  al}(2006)]{thomas2006}
+{Thomas E. Schwartzentruber, Leonardo C. Scalabrin, et al}.
+\newblock {Hybrid Particle-Continuum Simulations of Non-Equilibrium Hypersonic
+  Blunt Body Flow Fields [R]}.
+\newblock \emph{{Joint Thermophysics and Heat Transfer Conference, Francisco,
+  California}}, 2006.
+
+\bibitem[{Schumann U}()]{schumann1975}
+{Schumann U}.
+\newblock {Subgrid Scale Model for Finite Difference Simulations of Turbulent
+  Flows in Plane Channels and Annuli[J]}.
+\newblock \emph{Journal of Computational Physics}, 1975,18:\penalty0 376--404.
+
+\bibitem[{V Chakravarthy, S Menon}()]{Chakravarthy2001}
+{V Chakravarthy, S Menon}.
+\newblock {Large Eddy Simulations of Turbulent Premixed Flames in the Flamelet
+  Regime[J]}.
+\newblock \emph{{Combustion Science and Technology}}, 2001,162:\penalty0
+  175--222.
+
+\bibitem[{赵彪}(2010)]{zhao2010}
+{赵彪}.
+\newblock \emph{{高超声速飞行器技术发展研究[D]}}.
+\newblock {哈尔滨工业大学}, 2010.
+
+\bibitem[{A. Sharma, L. N. Long}()]{sharma2004}
+{A. Sharma, L. N. Long}.
+\newblock {Numerical Simulation of the Blast Impact Problem Using the Direct
+  Simulation Monte Carlo (DSMC) Method [J]}.
+\newblock \emph{{Journal of Computational Physics}}, 2004,200\penalty0
+  (1):\penalty0 211--237.
+
+\bibitem[{W.P.Jones and B.E.Launder}({\natexlab{a}})]{jones1972}
+{W.P.Jones and B.E.Launder}.
+\newblock {The Prediction of Laminarization with a Two-equation Model of
+  Turbulence[J]}.
+\newblock \emph{Journal of Heat and Mass Transfer}, 1972,15\penalty0
+  (2):\penalty0 301--314, {\natexlab{a}}.
+
+\bibitem[{W.P.Jones and B.E.Launder}({\natexlab{b}})]{jones1973}
+{W.P.Jones and B.E.Launder}.
+\newblock {The Calculation of Low-Reynolds Number Phenomena with a Two-equation
+  Model of Turbulence[J]}.
+\newblock \emph{Journal of Heat and Mass Transfer}, 1973,16:\penalty0
+  1119--1130, {\natexlab{b}}.
+
+\bibitem[陈景仁(1989)]{cjr1989}
+陈景仁.
+\newblock \emph{{湍流模型及有限分析法[M]}}.
+\newblock {上海：上海交通大学出版社}, 1989.
+
+\bibitem[{Bradshaw P,Ferriss D,Atwell N}()]{bradshaw1967}
+{Bradshaw P,Ferriss D,Atwell N}.
+\newblock {Calculation of Boundary-layer Using the Turbulent Energy
+  Equation[J]}.
+\newblock \emph{{Journal of Fluid Mechanics}}, 1967,28\penalty0 (3):\penalty0
+  593--616.
+
+\bibitem[{李玉莹}(2012)]{li2012}
+{李玉莹}.
+\newblock
+  \emph{{EGSB反应器结构对内流场影响的数值模拟研究[D]}}.
+\newblock {哈尔滨工程大学}, 2012.
+
+\bibitem[{ J.D. Anderson}(1989)]{anderson1989}
+{ J.D. Anderson}.
+\newblock \emph{{Hypersonic and High Temperature gas dynamics[M]}}.
+\newblock {McGraw-Hill Book Company}, 1989.
+
+\bibitem[{李会萍}(2010)]{lihuiping2010}
+{李会萍}.
+\newblock
+  \emph{{高超声速飞行器气动加热特性及其计算方法研[D]}}.
+\newblock {上海:上海交通大学}, 2010.
+
+\bibitem[{谢志学}(2011)]{xiezhixue2011}
+{谢志学}.
+\newblock \emph{{大气吸气模式激光等离子体推进数值模拟[D]}}.
+\newblock {南京: 南京理工大学}, 2011.
+
+\bibitem[{阎超}(2006)]{yan2006}
+{阎超}.
+\newblock \emph{{计算流体力学方法及应用[M]}}.
+\newblock 北京:北京航空航天大学出版社, 2006.
+
+\bibitem[{F R Menter}()]{menter1994}
+{F R Menter}.
+\newblock {Two-equation Eddy-viscosity Turbulence Models for Engineering
+  Applications[J]}.
+\newblock \emph{{AIAA Journal}}, 1994,32\penalty0 (8):\penalty0 1598--1605.
+
+\bibitem[{Sutton G W , Pond J E, et al}()]{sutton1994}
+{Sutton G W , Pond J E, et al}.
+\newblock {Hypersonic Intercept or Aero Optics Performance Predictions[J]}.
+\newblock \emph{Journal of Spacecraft and Rocket}, 1994,31\penalty0
+  (4):\penalty0 592--599.
+
+\bibitem[{Qiong Gao,Zongfu Jiang,Shihe Yi,and Xiaohu Wang}()]{qiong2013}
+{Qiong Gao,Zongfu Jiang,Shihe Yi,and Xiaohu Wang}.
+\newblock {Statistical characteristics of the tilts of the aero-optical
+  aberration caused by the supersonic turbulent boundary layer[J]}.
+\newblock \emph{{OPTICS LETTERS}}, 2013,38\penalty0 (5):\penalty0 751--753.
+
+\bibitem[{Catrakis Haris, Aguirre Reberto C}()]{haris2004}
+{Catrakis Haris, Aguirre Reberto C}.
+\newblock {New Interfacial Fluid Thickness Approach in Aero-Optics with
+  Applications to Compressible Turbulence [J]}.
+\newblock \emph{{AIAA Journal}}, 2004,42\penalty0 (10):\penalty0 1973--1981.
+
+\bibitem[{R. Mark Rennie}()]{mark2013}
+{R. Mark Rennie}.
+\newblock {Evaluation of Laser Beacon for Adaptive-Optic Correction of a
+  Compressible Shear Layer[J]}.
+\newblock \emph{{AIAA JOURNAL}}, 2013,51\penalty0 (4):\penalty0 1008--1010.
+
+\bibitem[{Max Born, Emil Wolf}(2001)]{max2001}
+{Max Born, Emil Wolf}.
+\newblock \emph{{Principles of optics[M]}}.
+\newblock 北京:世界图书出版公司, 2001.
+
+\end{thebibliography}
